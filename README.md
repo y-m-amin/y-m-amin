@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Yousuf Mohammad Amin</h1>
 <h3 align="center">Web Developer & Product Design Engineer (3D) from Bangladesh</h3>
 <p align="center">
-<img src="https://i.ibb.co.com/VpcTtSPx/freepik-technology-linkedin-profile-cover-20251119073234l-XB7.png" alt="freepik-technology-linkedin-profile-cover-20251119073234l-XB7" border="0">
+<img src="./assets/freepik-technology-linkedin-profile-cover-20251119073234lXB7.png" alt="freepik-technology-linkedin-profile-cover-20251119073234l-XB7" border="0">
 </p>
 
 
