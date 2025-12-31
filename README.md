@@ -111,7 +111,7 @@
 ### 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-m-amin&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=y-m-amin&screen_effect=true&theme=blue_chill&pixelate_avatar=false" alt="GitHub stats" />
 </p>
 
 <p align="left">
