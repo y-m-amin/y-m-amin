@@ -114,10 +114,6 @@
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=y-m-amin&screen_effect=true&theme=blue_chill&pixelate_avatar=false" alt="GitHub stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y-m-amin&theme=tokyonight" alt="GitHub streak stats" />
-</p>
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=y-m-amin&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=y-m-amin&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+
