@@ -12,7 +12,7 @@
 
 - 🔭 I’m a **web developer** who also works professionally as a **Product Design Engineer**, doing **3D modeling & design**  
 - 🎨 I enjoy bridging **interactive web experiences** with **3D/visual design** (Blender, Unreal, CAD-style work)  
-- 🌱 Currently sharpening my skills in **modern frontend (React, Tailwind)** and **3D workflows**  
+- 🌱 Currently sharpening my skills in **modern frontend (React Js, Node Js, Mongo , Next Js)**   
 - 💼 GitHub: [github.com/y-m-amin](https://github.com/y-m-amin)  
 - 📫 Reach me at **yousuf.amin8818@gmail.com** (or via LinkedIn below)
 
